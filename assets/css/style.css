@@ -1,0 +1,19 @@
+
+.shop_data tr {
+
+    vertical-align: middle;
+}
+
+i{
+    pointer-events: none;
+}
+
+.single_modal img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    border: 10px solid #FFFF;
+    border-radius: 50%;
+}
